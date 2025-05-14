@@ -60,10 +60,6 @@ private static final String PASSWORD = "your_postgres_password";
 
 Use any Java IDE or compile with the terminal:
 
-```bash
-javac *.java
-java Main
-```
 
 ## Example Usage
 
@@ -71,12 +67,4 @@ java Main
 - View courses: Lists all courses from DB.
 - Register: Choose a student and a course.
 
-## Notes
-
-- Make sure the PostgreSQL JDBC driver (`postgresql-<version>.jar`) is in your classpath.
-- This is a basic CLI project and does not include any UI.
-
-## License
-
-This project is for learning purposes only.
 
